@@ -1,0 +1,11 @@
+{
+    "user": [{
+        "id": "sujaA",
+        "name": "suja ahmed",
+        "password": "Saf6467*12",
+        "email": "sujasgk2@gmail.com",
+        "gender": "male",
+        "role": "admin",
+        "isActive": true
+    }]
+}
